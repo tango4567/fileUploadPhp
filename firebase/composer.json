@@ -1,0 +1,6 @@
+{
+    "require": {
+        "kreait/firebase-php": "^5.18",
+        "kreait/firebase-bundle": "^2.4"
+    }
+}
